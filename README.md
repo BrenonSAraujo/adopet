@@ -19,12 +19,12 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Este projeto simula um backend de uma loja com três entidades (usuários, produtos e pedidos). Ao se autenticar, um usuário pode realizar o CRUD nas outras duas entidades.
+ Este projeto simula o backend de uma organização que realiza adoções de animais de estimação. As rotas nela incluem criar adotantes, animais e abrigos, traçando uma relação entre cada entidade, como o tipo de animal adotado por um adotante, por exemplo.
 </p>
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Cria uma sessão de usuário por meio do token de acesso;
+:heavy_check_mark: `Funcionalidade 1:` CRUD na API
 
 :heavy_check_mark: `Funcionalidade 2:` Armazena os dados no Postgres por meio do TypeORM;
 
