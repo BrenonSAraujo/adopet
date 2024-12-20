@@ -28,7 +28,7 @@
 
 :heavy_check_mark: `Funcionalidade 2:` Armazena os dados no SQLite por meio do TypeORM;
 
-:heavy_check_mark: `Funcionalidade 2:` ;
+:heavy_check_mark: `Funcionalidade 3:` Executa validações por meio de Middlewares;
 
 
 ## Ferramentas utilizadas
