@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/af79f477-189c-44cf-9fd0-52afc52e0fa1"/>
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=ABERTO%20PARA%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=ABERTO%20PARA%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" alt="" style="max-width: 100%;"/>
 </p>
 
 ### Tópicos 
@@ -12,8 +12,9 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
+- [Técnicas e Tecnologias Utilizadas](#técnicas-e-tecnologias-utilizadas)
 
+- [Acesso ao projeto](#acesso-ao-projeto)
 
 ## Descrição do projeto 
 
@@ -31,6 +32,14 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,postgres)](https://skillicons.dev)
 
 ###
+
+## ✔️ Técnicas e Tecnologias Utilizadas
+
+As principais técnicas e tecnologias abordadas são:
+
+- `TypeORM`: ORM permite trabalhar com bancos de dados relacionais de forma orientada a objetos.
+- 
+
 
 ## Acesso ao projeto
   - ``git clone https://github.com/BrenonSAraujo/adopet.git``: Clone o projeto do GitHub para a sua máquina
