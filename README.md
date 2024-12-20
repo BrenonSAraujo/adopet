@@ -30,6 +30,8 @@
 
 :heavy_check_mark: `Funcionalidade 3:` Executa validações por meio de Middlewares;
 
+:heavy_check_mark: `Funcionalidade 4:` Criptografia de senha;
+
 
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,sqlite,orm)](https://skillicons.dev)
