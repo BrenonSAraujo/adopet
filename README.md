@@ -14,7 +14,6 @@
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
 ## Descrição do projeto 
 
@@ -29,31 +28,15 @@
 :heavy_check_mark: `Funcionalidade 2:` Armazena os dados no Postgres por meio do TypeORM;
 
 ## Ferramentas utilizadas
-[![My Skills](https://skillicons.dev/icons?i=nestjs,ts,postgres,docker)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=ts,postgres)](https://skillicons.dev)
 
 ###
 
 ## Acesso ao projeto
- <p align="left"> 
-  A versão do NodeJS deste projeto é a 18.18.0
- </p>
- 
-  - ``git clone https://github.com/BrenonSAraujo/compree.git``: Clone o projeto do GitHub para a sua máquina
+  - ``git clone https://github.com/BrenonSAraujo/adopet.git``: Clone o projeto do GitHub para a sua máquina
   
   - ``npm i``: Instale as dependências do projeto
   
-  - ``npm run typeorm migration:generate src/db/migrations/cria-tabelas``: Gere as migrações com as tabelas do banco de dados
-  
-  - ``npm run typeorm migration:run``: Rode as migrações
-  
-  - ``docker compose up -d``: Suba a aplicação com o Docker
-  
   - ``npm run start``: inicie o servidor da aplicação
     
- 
-## Abrir e rodar o projeto
- <p align="left"> Caso queira verificar o banco de dados, é preciso primerio logar na página do pgAdmin4 com os dados de email e senha no arquivo docker-compose.yaml. Após isso, insira as informações de nome, senha e porta de acordo com as variáveis de ambiente no arquivo .env </p>
-
-  Você pode interagir com este projeto por meio de uma ferramenta de desenvolvimento e teste de API, como o Postman. Após isso, você pode se cadastrar na rota de 'http://localhost:3000/autenticacao/login' colocando seu nome, email e senha e. Com isso será gerado um token de acesso, o qual deve ser colocado no body toda vez em que você quiser fazer uma requisição de cadastro.
 
