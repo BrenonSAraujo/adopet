@@ -26,10 +26,13 @@
 
 :heavy_check_mark: `Funcionalidade 1:` CRUD na API
 
-:heavy_check_mark: `Funcionalidade 2:` Armazena os dados no Postgres por meio do TypeORM;
+:heavy_check_mark: `Funcionalidade 2:` Armazena os dados no SQLite por meio do TypeORM;
+
+:heavy_check_mark: `Funcionalidade 2:` ;
+
 
 ## Ferramentas utilizadas
-[![My Skills](https://skillicons.dev/icons?i=ts,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,sqlite,orm)](https://skillicons.dev)
 
 ###
 
@@ -37,8 +40,11 @@
 
 As principais técnicas e tecnologias abordadas são:
 
+- `NodeJS`: permite executar código JavaScript no lado do servidor;
 - `TypeORM`: ORM permite trabalhar com bancos de dados relacionais de forma orientada a objetos.
-- 
+- `Express`: framework de aplicativo web para Node.js que simplifica a criação de aplicativos web e móveis;
+- `Yup`:  para definir regras de validação para estruturas e tipos de dados em aplicativos.
+- `SQLite`: biblioteca compacta que implementa um banco de dados SQL sem a necessidade de um servidor.
 
 
 ## Acesso ao projeto
